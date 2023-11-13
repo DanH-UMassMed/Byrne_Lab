@@ -1,0 +1,10 @@
+{
+    "title":"Analysis for Byrne lab",
+    "process_date":"May-23-2023",
+    "prepared_by":"Dan Higgins (daniel.higgins@umassmed.edu)",
+    "prepared_for":["Alex Byrne (Alexandra.Byrne@umassmed.edu)"],
+    "dropbox_folder":"Buttiauxella Original Files/Novogene raw data/raw_data",
+    "wormbase_version":"WS289",
+    "github_release":"https://github.com/DanH-UMassMed/RNA-Seq-Nextflow",
+    "github_tag":"v1.0.1"
+}
